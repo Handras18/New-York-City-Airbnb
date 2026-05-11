@@ -9,4 +9,4 @@ scipy==1.17.1
 seaborn==0.13.2
 sklearn-compat==0.1.5
 xgboost==3.2.0
-
+category_encoders==2.6.4
